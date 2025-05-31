@@ -31,7 +31,7 @@ El script en el Jupyter Notebook `Analisis de Redes Sociales.ipynb` lleva a cabo
     * Cálculo del tamaño del componente más grande.
     * Cálculo de la densidad de la red.
     * Cálculo del diámetro del componente principal.
-
+ 
 ## Conjunto de Datos
 
 El análisis se basa en el archivo `networks_2019.csv`. Se espera que este archivo contenga al menos las siguientes columnas para representar las aristas de la red:
@@ -49,3 +49,4 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes biblio
 Puedes instalarlas usando pip:
 ```bash
 pip install pandas networkx matplotlib
+

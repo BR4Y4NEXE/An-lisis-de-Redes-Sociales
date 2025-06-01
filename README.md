@@ -45,8 +45,3 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes biblio
 * pandas
 * networkx
 * matplotlib
-
-Puedes instalarlas usando pip:
-```bash
-pip install pandas networkx matplotlib
-
